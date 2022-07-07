@@ -33,7 +33,7 @@
 		"jsonwebtoken": "^8.5.1",
 		"mandatoryenv": "^1.1.1",
 		"module-alias": "^2.2.2",
-		"moment": "^2.24.0",
+		"moment": "^2.29.4",
 		"morgan": "^1.9.1",
 		"mustache": "^4.0.0",
 		"mysql": "^2.18.1",
